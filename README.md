@@ -5,7 +5,7 @@ This project focuses on detecting fraudulent transactions in a highly imbalanced
 ## 📌 Dataset
 
 - The dataset contains transactions labeled as **Fraudulent** and **Legitimate**.
-- Due to severe class imbalance (~0.0017% fraud), custom sampling strategies were used for splitting.
+- Due to severe class imbalance (~0.17% fraud), custom sampling strategies were used for splitting.
 
 ## 📊 Data Splitting
 
