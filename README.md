@@ -11,6 +11,7 @@ This project focuses on detecting fraudulent transactions in a highly imbalanced
 
 - **Training Set:** 70% of fraud cases + 50% of legit transactions.
 - **Testing Set:** 30% of fraud cases + 50% of legit transactions.
+- **Balancing:** Applied **ADASYN (Adaptive Synthetic Sampling)** on the training data to handle class imbalance.
 
 ## ⚙️ Models Used
 
